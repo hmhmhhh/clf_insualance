@@ -19,3 +19,11 @@ https://www.kaggle.com/competitions/playground-series-s4e7/discussion?sort=votes
 | `Policy_Sales_Channel` | 顧客へのアプローチチャネルの匿名化コード（例：さまざまな代理店、メール、電話、対面など）               |
 | `Vintage`            | 顧客が会社に関連付けられている日数                                                                  |
 | `Response`           | 1 : 顧客は興味がある, 0 : 顧客は興味がない                                                           |
+
+
+#仮説  
+・`Driving_License`=0は、比較的高齢者or 若者か
+・ `Region_Code`；若者が多い地域かどうかカラム
+・`Policy_Sales_Channel`ごとに刺さりやすい顧客層がありそう
+・
+
