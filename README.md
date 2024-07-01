@@ -1,6 +1,8 @@
 # clf_insualance
 https://www.kaggle.com/competitions/playground-series-s4e7/discussion?sort=votes
 
+[エクセル]{https://onedrive.live.com/personal/e1cd03577e8d2f8b/_layouts/15/doc2.aspx?resid=896e960f-1ea8-4b57-a743-436ddb76d5ac&cid=e1cd03577e8d2f8b&action=editnew&wdNewAndOpenCt=1719838725386&ct=1719838725996&wdOrigin=OFFICECOM-WEB.START.NEW&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=c3b0e148-240e-4f08-8cf2-b83195904091} 
+
 # カラム
 
 | 変数名                 | 定義                                                                                             |
